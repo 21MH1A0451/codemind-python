@@ -1,4 +1,3 @@
-def div(n):
-    n=n//10
-n=int(input())
-print(n//10)
+a=int(input())
+x=a//10
+print(x)
